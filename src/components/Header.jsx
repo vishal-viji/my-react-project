@@ -16,12 +16,12 @@ function Header() {
             <Nav.Link as={NavLink} to="/" exact>
               Home
             </Nav.Link>
-            <Nav.Link as={NavLink} to="/signup">
+            {/* <Nav.Link as={NavLink} to="/signup">
               Signup
             </Nav.Link>
             <Nav.Link as={NavLink} to="/login">
               Login
-            </Nav.Link>
+            </Nav.Link> */}
           </Nav>
         </Navbar.Collapse>
       </Container>
