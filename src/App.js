@@ -4,8 +4,8 @@ import Header from "./components/Header";
 import { Container } from "react-bootstrap";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
-import SignupScreen from "./components/screens/SignupScreen";
-import LoginScreen from "./components/screens/LoginScreen";
+// import SignupScreen from "./components/screens/SignupScreen";
+// import LoginScreen from "./components/screens/LoginScreen";
 import ProductDetails from "./components/screens/ProductDetails";
 
 export default function App() {
